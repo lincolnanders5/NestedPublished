@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "NestedPublished",
     platforms: [
-        .macOS(.v10_13),
+        .macOS(.v10_15),
         .iOS(.v11),
         .tvOS(.v11)
     ],
